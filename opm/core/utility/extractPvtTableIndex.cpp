@@ -16,6 +16,8 @@
 */
 #include <config.h>
 
+#include <cassert>
+
 #include "extractPvtTableIndex.hpp"
 
 #include <opm/parser/eclipse/EclipseState/EclipseState.hpp>
